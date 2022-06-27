@@ -1,0 +1,80 @@
+{
+    "python.jediEnabled": false,
+    "[python]": {},
+    "qtForPython.path.pyuic": "\"C:\\Users\\User\\Anaconda3\\pkgs\\pyqt-5.9.2-py37h6538335_2\\Library\\bin\\pyuic5.bat\"",
+    "editor.renderWhitespace": "boundary",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "editor.lineNumbers": "relative",
+    "editor.tabSize": 2,
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": false,
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "on",
+    "editor.largeFileOptimizations": true,
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "contrastBorder": "#442244",
+        "[Default Light+]": {
+            "tab.activeBackground": "#2822",
+            "sideBar.background": "#ffffff",
+            "activityBar.background": "#ffffff",
+            "contrastBorder": "#bbffcc",
+            "activityBar.foreground": "#27f",
+            "banner.background": "#ff0000",
+            "tab.inactiveBackground": "#ffffff",
+            "titleBar.inactiveBackground": "#ffffff",
+            "titleBar.activeBackground": "#ffffff",
+            "statusBar.background": "#ffffff",
+            "statusBar.debuggingBackground": "#2822",
+            "statusBar.foreground": "#2277ff",
+            "statusBarItem.remoteBackground": "#ffffff",
+            "statusBarItem.remoteForeground": "#282"
+        },
+    },
+    "editor.tokenColorCustomizations": {
+        "[Default Light+]": {
+            // "comments": "#888"
+        }
+    },
+    "cmake.configureOnOpen": true,
+    "cmake.generator": "Ninja",
+    "python.languageServer": "Default",
+    "python.defaultInterpreterPath": "C:\\Users\\User\\Anaconda3\\python.exe",
+    "remote.SSH.remotePlatform": {
+        "dev.noeon.ai": "linux"
+    },
+    "vim.camelCaseMotion.enable": true,
+    "vim.commandLineModeKeyBindings": [],
+    "vim.handleKeys": {
+        "<C-k>": false,
+        "<C-h>": false,
+        "<C-d>": true,
+        "<C-pageup>": false,
+        "<C-pagedown": false,
+        "<C-b>": false,
+    },
+    "vim.easymotion": true,
+    "search.showLineNumbers": true,
+    "C_Cpp.formatting": "vcFormat",
+    "C_Cpp.vcFormat.indent.namespaceContents": false,
+    "C_Cpp.vcFormat.newLine.beforeElse": false,
+    "C_Cpp.vcFormat.newLine.beforeCatch": false,
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+    "C_Cpp.vcFormat.space.withinInitializerListBraces": false,
+    "C_Cpp.experimentalFeatures": "Enabled",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "remote.SSH.path": "\\\\wsl$\\Ubuntu-20.04\\usr\\bin\\ssh",
+    "jupyter.askForKernelRestart": false,
+    "tabnine.experimentalAutoImports": true,
+    "editor.foldingMaximumRegions": 15000,
+    "editor.guides.bracketPairs": "active"
+}
