@@ -110,5 +110,24 @@
   "key": "ctrl+a",
   "command": "-extension.vim_ctrl+a",
   "when": "editorTextFocus && vim.active && vim.use<C-a> && !inDebugRepl"
+},
+{
+  "key": "ctrl+shift+f",
+  "command": "search.action.openEditor"
+},
+{
+  "key": "ctrl+1",
+  "command": "workbench.action.terminal.focusAtIndex1",
+  "when": "terminalFocus"
+},
+{
+  "key": "ctrl+2",
+  "command": "workbench.action.terminal.focusAtIndex2",
+  "when": "terminalFocus"
+},
+{
+  "key": "ctrl+3",
+  "command": "workbench.action.terminal.focusAtIndex3",
+  "when": "terminalFocus"
 }
 ]
